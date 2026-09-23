@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: ingestion-bigdata
+Version: 1.2.0
+Summary: Ingesta, limpieza y enriquecimiento de datos del API de Colombia
+Requires-Python: >=3.10
+Requires-Dist: requests>=2.31.0
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: openpyxl>=3.1.0
+Requires-Dist: lxml>=5.0.0
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

@@ -1,0 +1,35 @@
+REPORTE DE AUDITORÍA - ENRIQUECIMIENTO DE DATOS
+Fecha y hora de ejecución: 2026-09-22T22:47:38.593310
+======================================================================
+Registros del dataset base (EA2): 41
+Registros del dataset enriquecido (EA3): 41
+Registros sin departamento inferido: 20
+Ciudades sin mapeo a departamento: ['Aquitania', 'Aratoca', 'Barichara', 'Bugalagrande', 'El Cocuy', 'Filandia', 'Ipiales', 'Jericó', 'La Macarena', 'Montenegro', 'Puerto Triunfo', 'Ricaurte', 'San José Del Guaviare', 'Santa Catalina', 'Santafé De Antioquia', 'Sesquilé', 'Tocancipá', 'Túquerres', 'Uribia', 'Zipaquirá']
+======================================================================
+DETALLE DE INTEGRACIÓN POR FUENTE
+  Fuente: regiones.json
+    Registros en la fuente: 33
+    Registros coincidentes: 19
+    Registros sin coincidencia: 22
+  Fuente: capitales.csv
+    Registros en la fuente: 33
+    Registros coincidentes: 19
+    Registros sin coincidencia: 22
+  Fuente: clima.xlsx
+    Registros en la fuente: 33
+    Registros coincidentes: 19
+    Registros sin coincidencia: 22
+  Fuente: idiomas.xml
+    Registros en la fuente: 22
+    Registros coincidentes: 12
+    Registros sin coincidencia: 29
+  Fuente: festivos_relevantes.txt
+    Registros en la fuente: 33
+    Registros coincidentes: 19
+    Registros sin coincidencia: 22
+  Fuente: categorias.html
+    Registros en la fuente: 21
+    Registros coincidentes: 34
+    Registros sin coincidencia: 7
+======================================================================
+Conclusión: El dataset fue enriquecido exitosamente con información geográfica, climática, cultural y de categorización turística proveniente de 6 fuentes en formatos distintos (JSON, CSV, XLSX, XML, HTML, TXT). Los registros sin coincidencia corresponden a ciudades sin mapeo de departamento definido o a atracciones sin palabras clave reconocidas.

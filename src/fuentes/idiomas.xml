@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departamentos>
+    <departamento nombre="Antioquia">
+        <lengua_indigena>Embera</lengua_indigena>
+    </departamento>
+    <departamento nombre="Bogotá D.C.">
+        <lengua_indigena>Ninguna registrada</lengua_indigena>
+    </departamento>
+    <departamento nombre="Cundinamarca">
+        <lengua_indigena>Muisca (extinta)</lengua_indigena>
+    </departamento>
+    <departamento nombre="Cauca">
+        <lengua_indigena>Nasa Yuwe</lengua_indigena>
+    </departamento>
+    <departamento nombre="Nariño">
+        <lengua_indigena>Awapit</lengua_indigena>
+    </departamento>
+    <departamento nombre="La Guajira">
+        <lengua_indigena>Wayuunaiki</lengua_indigena>
+    </departamento>
+    <departamento nombre="Chocó">
+        <lengua_indigena>Embera-Wounaan</lengua_indigena>
+    </departamento>
+    <departamento nombre="Amazonas">
+        <lengua_indigena>Tikuna</lengua_indigena>
+    </departamento>
+    <departamento nombre="Vaupés">
+        <lengua_indigena>Cubeo</lengua_indigena>
+    </departamento>
+    <departamento nombre="Guainía">
+        <lengua_indigena>Curripaco</lengua_indigena>
+    </departamento>
+    <departamento nombre="Putumayo">
+        <lengua_indigena>Inga</lengua_indigena>
+    </departamento>
+    <departamento nombre="Caquetá">
+        <lengua_indigena>Uitoto</lengua_indigena>
+    </departamento>
+    <departamento nombre="Tolima">
+        <lengua_indigena>Pijao</lengua_indigena>
+    </departamento>
+    <departamento nombre="Huila">
+        <lengua_indigena>Nasa Yuwe</lengua_indigena>
+    </departamento>
+    <departamento nombre="Valle del Cauca">
+        <lengua_indigena>Embera</lengua_indigena>
+    </departamento>
+    <departamento nombre="Meta">
+        <lengua_indigena>Sikuani</lengua_indigena>
+    </departamento>
+    <departamento nombre="Vichada">
+        <lengua_indigena>Sikuani</lengua_indigena>
+    </departamento>
+    <departamento nombre="Casanare">
+        <lengua_indigena>U'wa</lengua_indigena>
+    </departamento>
+    <departamento nombre="Arauca">
+        <lengua_indigena>U'wa</lengua_indigena>
+    </departamento>
+    <departamento nombre="Boyacá">
+        <lengua_indigena>Muisca (extinta)</lengua_indigena>
+    </departamento>
+    <departamento nombre="Magdalena">
+        <lengua_indigena>Kogui</lengua_indigena>
+    </departamento>
+    <departamento nombre="Cesar">
+        <lengua_indigena>Kogui</lengua_indigena>
+    </departamento>
+</departamentos>

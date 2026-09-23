@@ -1,0 +1,36 @@
+# festivos_relevantes.txt
+# Formato: departamento: festividad_representativa
+# Una línea por departamento; las líneas que empiezan con "#" son comentarios y se ignoran.
+Antioquia: Feria de las Flores
+Bogotá D.C.: Festival de Verano
+Cundinamarca: Festival de la Luz de Villa de Leyva
+Santander: Festival Internacional de Piano
+Norte de Santander: Feria Internacional de Cúcuta
+Boyacá: Aguinaldo Boyacense
+Caldas: Feria de Manizales
+Risaralda: Fiesta del Mango
+Quindío: Fiestas Aniversarias de Armenia
+Tolima: Festival Folclórico Colombiano
+Huila: Festival del Bambuco
+Cauca: Semana Santa de Popayán
+Nariño: Carnaval de Negros y Blancos
+Valle del Cauca: Feria de Cali
+Chocó: Fiestas de San Francisco de Asís
+Atlántico: Carnaval de Barranquilla
+Bolívar: Fiestas de Independencia de Cartagena
+Magdalena: Festival del Mar
+Cesar: Festival de la Leyenda Vallenata
+Córdoba: Festival Nacional del Porro
+Sucre: Fiesta en Corraleja
+La Guajira: Festival de la Cultura Wayuu
+San Andrés y Providencia: Green Moon Festival
+Meta: Festival Internacional del Joropo
+Casanare: Torneo Internacional del Joropo
+Arauca: Festival de la Frontera
+Vichada: Festival del Sikuani
+Amazonas: Festival de la Confraternidad Amazónica
+Caquetá: Festival de Colonias
+Putumayo: Carnaval Andino Amazónico
+Guaviare: Festival de Verano Guaviarense
+Guainía: Encuentro de Culturas Indígenas
+Vaupés: Festival del Yuruparí
