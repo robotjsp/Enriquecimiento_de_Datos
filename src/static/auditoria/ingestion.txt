@@ -1,5 +1,5 @@
 REPORTE DE AUDITORÍA - INGESTA DE DATOS
-Fecha y hora de ejecución: 2026-11-03T13:14:14.186160
+Fecha y hora de ejecución: 2026-11-04T13:27:26.601994
 API consultada: https://api-colombia.com/api/v1/TouristicAttraction
 ------------------------------------------------------------
 Registros extraídos del API: 41
