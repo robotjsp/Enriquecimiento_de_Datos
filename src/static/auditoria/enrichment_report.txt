@@ -1,5 +1,5 @@
 REPORTE DE AUDITORÍA - ENRIQUECIMIENTO DE DATOS
-Fecha y hora de ejecución: 2026-11-17T15:08:31.241944
+Fecha y hora de ejecución: 2026-11-18T14:46:47.490768
 ======================================================================
 Registros del dataset base (EA2): 41
 Registros del dataset enriquecido (EA3): 41
